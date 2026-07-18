@@ -4,7 +4,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=maheshchhedal&label=Profile%20Views&color=0e7490&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-10B981?style=for-the-badge" alt="open to work"/>
 <img src="https://img.shields.io/badge/LOCATION-Nepal%20🇳🇵-7C3AED?style=for-the-badge" alt="location"/>
 
